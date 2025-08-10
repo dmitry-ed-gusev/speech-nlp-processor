@@ -3,7 +3,7 @@
 #   Development/testing dependencies for the NLP project dependencies.
 #
 #   Created:  Dmitrii Gusev, 08.08.2025
-#   Modified:
+#   Modified: Dmitrii Gusev, 10.08.2025
 #
 ###################################################################################################
 
@@ -50,3 +50,5 @@ Faker==37.3.0
 # - readline module depending on the platform
 pyreadline3==3.5.4; sys.platform == 'win32' or sys.platform == 'cygwin'
 gnureadline==8.2.13; sys.platform != 'win32'
+
+pyright==1.1.403

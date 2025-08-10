@@ -3,16 +3,29 @@
 #   Main (runtime/production) NLP project dependencies.
 #
 #   Created:  Dmitrii Gusev, 08.08.2025
-#   Modified:
+#   Modified: Dmitrii Gusev, 10.08.2025
 #
 #############################################################################################################
 
+# - some tech libraries
 loguru==0.7.3
-
 pydantic==2.11.5
 pydantic-yaml==1.5.1
 marshmallow==4.0.0
 python-dotenv==1.1.0
 python-dateutil==2.9.0.post0
 
+# - audio manipulation libraries
+pydub-ng==0.2.0
+pyaudio==0.2.14  # microphone usage
+pyttsx3==2.99  # voice syntez
+types-pyaudio==0.2.16.20250801  # move to dev dependencies
+
+# - recognition libraries
 SpeechRecognition==3.14.3
+vosk==0.3.45
+
+# - NLP libraries
+
+# - current library in editable
+# -e ./src/nlp_python

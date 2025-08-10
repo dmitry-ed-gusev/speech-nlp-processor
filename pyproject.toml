@@ -48,7 +48,7 @@ max-complexity = 10
 max-line-length = 110
 # - some ignored violations (specific ignores per files)
 per-file-ignores = [
-    'app/__init__.py:E402',
+    #'app/__init__.py:E402',
     'tests/**:S101, S311',
 ]
 

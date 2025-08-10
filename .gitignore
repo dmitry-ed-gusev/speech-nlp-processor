@@ -163,3 +163,7 @@ cython_debug/
 *.bkp
 
 *_remove_me*
+
+models/vosk*
+
+output.wav

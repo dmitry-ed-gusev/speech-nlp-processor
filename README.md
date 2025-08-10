@@ -10,7 +10,7 @@ https://reintech.io/blog/how-to-create-a-voice-recognition-system-with-python
 https://nuancesprog.ru/p/15378/?ysclid=me2rpsc35o274850267
 https://github.com/KiyotakkkkA/PythonVoiceAssistant
 https://sky.pro/wiki/python/raspoznavanie-rechi-i-sintez-rechi-na-python/
-https://habr.com/ru/articles/529590/
++https://habr.com/ru/articles/529590/
 https://habr.com/ru/articles/577806/
 https://habr.com/ru/articles/267539/
 https://habr.com/ru/articles/351376/
