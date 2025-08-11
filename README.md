@@ -1,5 +1,7 @@
 # Speech Recognition and NLP Module
 
+## Speech Recognition
+
 https://uproger.com/raspoznavanie-rechi-v-python/
 https://www.nickmccullum.com/python-speech-recognition/
 https://thepythoncode.com/article/speech-recognition-in-python
@@ -9,11 +11,11 @@ https://selectel.ru/blog/tutorials/voice-assistant/?ysclid=me2rpvabht857525868
 https://reintech.io/blog/how-to-create-a-voice-recognition-system-with-python
 https://nuancesprog.ru/p/15378/?ysclid=me2rpsc35o274850267
 https://github.com/KiyotakkkkA/PythonVoiceAssistant
-https://sky.pro/wiki/python/raspoznavanie-rechi-i-sintez-rechi-na-python/
+-https://sky.pro/wiki/python/raspoznavanie-rechi-i-sintez-rechi-na-python/
 +https://habr.com/ru/articles/529590/
-https://habr.com/ru/articles/577806/
-https://habr.com/ru/articles/267539/
-https://habr.com/ru/articles/351376/
+-https://habr.com/ru/articles/577806/
+-https://habr.com/ru/articles/267539/
+-https://habr.com/ru/articles/351376/
 
 https://betterstack.com/community/guides/monitoring/prometheus-alertmanager/
 https://prometheus.io/docs/introduction/overview/
@@ -53,4 +55,25 @@ https://habr.com/ru/articles/529590/
 https://sunscrapers.com/blog/9-best-python-natural-language-processing-nlp/
 https://www.geeksforgeeks.org/nlp/nlp-libraries-in-python/?ysclid=mdwq9wqded687654212
 https://sky.pro/wiki/python/biblioteki-dlya-nlp-na-python/
+https://habr.com/ru/companies/Voximplant/articles/446738/
+
+## NLP
+
+https://habr.com/ru/companies/otus/articles/705482/
+https://habr.com/ru/companies/ru_mts/articles/899964/
+
+! https://habr.com/ru/articles/864656/
+! https://habr.com/ru/articles/864778/
+! https://habr.com/ru/articles/864912/
+
+https://habr.com/ru/articles/778048/
+https://habr.com/ru/articles/718352/
+
+https://www.nltk.org/
+https://habr.com/ru/companies/otus/articles/774498/
+https://habr.com/ru/companies/Voximplant/articles/446738/
+https://habr.com/ru/companies/otus/articles/755584/
+https://habr.com/ru/companies/otus/articles/808435/
+https://habr.com/ru/companies/otus/articles/687796/
+https://habr.com/ru/articles/778048/
 https://habr.com/ru/companies/Voximplant/articles/446738/
