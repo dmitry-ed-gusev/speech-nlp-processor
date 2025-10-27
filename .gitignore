@@ -167,3 +167,5 @@ cython_debug/
 models/vosk*
 
 output.wav
+*.wav
+*.m4a
