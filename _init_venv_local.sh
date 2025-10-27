@@ -28,7 +28,7 @@ export _CURRENT_TIME
 
 # -- some useful script defaults
 export _VERBOSE="--verbose"
-export _VIRTUAL_ENV_NAME=".venv-speech-nlp-3.10"
+export _VIRTUAL_ENV_NAME=".venv-speech-nlp-3.13"
 export _PIP_TRUSTED_HOST="--trusted-host pypi.org"
 export _REQUIREMENTS_FILE='requirements.txt' # prod file
 export _REQUIREMENTS_DEV_FILE='requirements-dev.txt' # dev file
@@ -74,7 +74,7 @@ printf "\n= INFO: Upgrading PIP + SETUPTOOLS in the global python environment.\n
 # shellcheck disable=SC2086
 ${_CMD_PYTHON} -m pip ${_VERBOSE} --no-cache-dir install --upgrade pip
 # shellcheck disable=SC2086
-${_CMD_PIP} ${_VERBOSE} --no-cache-dir install --upgrade setuptools
+#${_CMD_PIP} ${_VERBOSE} --no-cache-dir install --upgrade setuptools
 printf "\n========== done.\n"
 
 # -- remove existing virtual environment

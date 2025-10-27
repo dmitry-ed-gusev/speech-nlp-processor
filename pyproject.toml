@@ -2,12 +2,13 @@
 #
 #   Main configuration file for the project. The whole project configuration should be put here.
 #
-#   Notes (code quality):
+#   Notes (project properties/code quality):
+#       - python 3.13 is required
 #       - project line length = 110 symbols
 #       - most of modules should be typed (used mypy stubs libraries)
 #
-#   Created: Dmitrii Gusev, 08.08.2025
-#   Modified:
+#   Created:  Dmitrii Gusev, 08.08.2025
+#   Modified: Dmitrii Gusev, 27.10.2025
 #
 ####################################################################################################
 
@@ -20,13 +21,13 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "nlp-application"
 version = "1.0.0"
-license     = "MIT"
+# license     = "MIT"
 description = "NLP (Natural Language Processing) Module in Python."
 readme      = "README.md"
 authors     = [
     {name = "Dmitrii Gusev", email = "dmitry.ed.gusev@gmail.com"},
 ]
-requires-python = "3.10"
+requires-python = "3.13"
 keywords    = ["NLP", "Speech Recognition", "Voice-to-Text"]
 classifiers = [
     "Development Status :: 6 - Mature",

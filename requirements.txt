@@ -3,16 +3,16 @@
 #   Main (runtime/production) NLP project dependencies.
 #
 #   Created:  Dmitrii Gusev, 08.08.2025
-#   Modified: Dmitrii Gusev, 10.08.2025
+#   Modified: Dmitrii Gusev, 27.10.2025
 #
 #############################################################################################################
 
 # - some tech libraries
 loguru==0.7.3
-pydantic==2.11.5
-pydantic-yaml==1.5.1
-marshmallow==4.0.0
-python-dotenv==1.1.0
+pydantic==2.12.3
+pydantic-yaml==1.6.0
+marshmallow==4.0.1
+python-dotenv==1.2.1
 python-dateutil==2.9.0.post0
 
 # - audio manipulation libraries
