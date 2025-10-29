@@ -1,4 +1,13 @@
-# Speech Recognition and NLP Module
+# Speech Recognition and NLP Processor (SPEEN)
+
+(C) 2025, Dmitrii Gusev  
+*Last update 28.10.2025*
+
+[TOC]
+
+## SPEEN Description
+
+TBD
 
 ## Speech Recognition
 

@@ -8,6 +8,10 @@
 
     // a list of words to be always considered correct
     "words": [
+        "SPEEN",
+        "infile",
+        "vosk",
+        "kaldi"
     ],
 
     // a list of words to be always considered incorrect
